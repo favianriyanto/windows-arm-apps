@@ -70,7 +70,7 @@ services:
     items:
       - name: "Chrome"
         logo: "assets/tools/chrome.png"
-        url: "https://www.google.com/chrome/canary/"
+        url: "https://www.google.com/chrome"
         target: "_blank" # optional html a tag target attribute
 
       - name: "Mozilla Firefox"
